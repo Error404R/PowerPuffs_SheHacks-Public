@@ -1,0 +1,34 @@
+body {
+  background-image: url(/gradient.0f9e29a8.jpg);
+  background-size: 100% 100%;
+}
+
+header {
+  padding: 50px;
+  background-image: url(/business.642803c6.jpg);
+  background-repeat: no-repeat;
+  height: 400px;
+}
+header h2 {
+  font-size: 1.2 rem;
+}
+header form {
+  margin-top: 50px;
+  max-width: 400px;
+}
+
+.card {
+  margin: 25px 0;
+}
+
+.loading-element {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  display: none;
+}
+.loading-element.loading {
+  display: block;
+}
+
+/*# sourceMappingURL=/app.a651375d.css.map */
